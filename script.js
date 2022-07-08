@@ -4,6 +4,8 @@ function wyswietldane()
     nag1.innerHTML = 'Magdalena Cieśla';
     let nag2 = document.querySelector('#nag2');
     nag2.innerHTML = 'Magdalena Cieśla';
+    let nag3 = document.querySelector('#nag3');
+    nag3.innerHTML = 'Magdalena Cieśla';
     let akapit = document.querySelector('#akapit');
     akapit.innerHTML = 'Magdalena Cieśla';
 }
